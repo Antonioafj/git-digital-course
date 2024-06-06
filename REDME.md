@@ -4,3 +4,6 @@
 
 ### Salvando modificações 
 #Salvando ALterações two
+** clsUso do comando restore **
+
+*comando git push
